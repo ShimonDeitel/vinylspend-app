@@ -1,0 +1,27 @@
+{
+  "identifier" : "VinylspendConfig",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "$3.99",
+      "familyShareable" : false,
+      "internalID" : "vinylspend_pro_internal",
+      "localizations" : [
+        {
+          "description" : "Unlock Collection total value and per-store spend comparison",
+          "displayName" : "Vinylspend Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "vinylspend_pro",
+      "referenceName" : "Vinylspend Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {},
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
